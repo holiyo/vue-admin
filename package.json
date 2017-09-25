@@ -2,7 +2,7 @@
   "name": "vue-admin",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "lihoo55555 <ZzzAoo@lhooo01>",
+  "author": "lihoo55555",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

@@ -1,4 +1,5 @@
 # vue-admin
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+学习vue
+>>>>>>> 07db656401b9008c238e1381ca0579c97119b5b2
